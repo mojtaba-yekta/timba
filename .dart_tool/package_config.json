@@ -92,6 +92,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "built_value_generator",
+      "rootUri": "file:///C:/Users/mojta/AppData/Local/Pub/Cache/hosted/pub.dev/built_value_generator-8.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "characters",
       "rootUri": "file:///C:/Users/mojta/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.2.1",
       "packageUri": "lib/",
@@ -434,7 +440,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-03-07T18:30:43.908690Z",
+  "generated": "2023-03-08T10:25:06.004628Z",
   "generator": "pub",
   "generatorVersion": "3.0.0-218.1.beta"
 }
